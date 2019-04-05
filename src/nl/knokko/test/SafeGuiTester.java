@@ -13,7 +13,7 @@ import nl.knokko.gui.testing.GuiTester;
 import nl.knokko.gui.testing.TestException;
 import nl.knokko.gui.window.GuiWindow;
 
-public class TestGuiTester {
+public class SafeGuiTester {
 
 	public static void testSafely(GuiTestProgram test, GuiWindow window) throws NativeHookException {
 		
