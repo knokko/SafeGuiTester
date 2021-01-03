@@ -1,6 +1,10 @@
 # SafeGuiTester
 A very small library for testing applications using my Gui library safely
 
+# Archived
+This repository is archived because the Gui repository itself is also archived.
+
+# Description
 This library only consists of a single class with a single public method start. In order to use this library, you need to have jnativehook,
 Gui (and eventually GLGui and LWJGL if that's what you want to test) and your own gui application on your buildpath.
 
